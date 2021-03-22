@@ -10,9 +10,10 @@ public class NewClass
 
         }
 
-		void DrugaPromjena(){
+		void DrugaPromijena(){
 			
 		}
 
 	}
 }
+//Problem Ispravljen
