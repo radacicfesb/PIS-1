@@ -6,9 +6,8 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Mislav was here");
+            Console.WriteLine("Novo");
             Console.WriteLine("Hello World!");
         }
     }
 }
-// Ispise ti se da san bija ovdi
